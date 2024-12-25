@@ -1,0 +1,2 @@
+<?php echo $__env->make('feed::rss', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+<?php /**PATH /home/u378727991/domains/mangomedia.net/public_html/resources/views/vendor/feed/feed.blade.php ENDPATH**/ ?>
